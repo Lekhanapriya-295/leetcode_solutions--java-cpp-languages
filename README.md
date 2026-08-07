@@ -44,4 +44,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/0062-unique-paths) |
+## Array
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/2706-buy-two-chocolates) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/2706-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
