@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/2427-number-of-common-factors) |
 ## Simulation
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/2608-shortest-cycle-in-a-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lekhanapriya-295/leetcode_solutions--java-cpp-languages/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
